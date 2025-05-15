@@ -1,1 +1,0 @@
-# kho-sql-api
